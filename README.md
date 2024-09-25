@@ -17,4 +17,12 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarisMalik123/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Array
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/HarisMalik123/LeetCode/tree/master/0051-n-queens) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/HarisMalik123/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
