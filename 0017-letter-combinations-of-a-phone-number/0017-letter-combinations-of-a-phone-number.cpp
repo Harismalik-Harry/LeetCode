@@ -1,70 +1,39 @@
 class Solution {
 public:
-string a(char a)
-{
-    if(a=='2')
-    {
-        return "abc";
+    string getLetters(char digit) {
+        if (digit == '2') return "abc";
+        if (digit == '3') return "def";
+        if (digit == '4') return "ghi";
+        if (digit == '5') return "jkl";
+        if (digit == '6') return "mno";
+        if (digit == '7') return "pqrs";
+        if (digit == '8') return "tuv";
+        if (digit == '9') return "wxyz";
+        return "";
     }
-     if(a=='3')
-    {
-        return "def";
+
+    void calculateCombinations(string &subset, int index, vector<string> &arr, const string &digits) {
+        if (subset.size() == digits.length()) {
+            arr.push_back(subset);
+            return;
+        }
+
+        string letters = getLetters(digits[index]);
+        for (int i = 0; i < letters.length(); i++) {
+            subset.push_back(letters[i]);
+            calculateCombinations(subset, index + 1, arr, digits);
+            subset.pop_back();  
+        }
     }
-     if(a=='4')
-    {
-        return "ghi";
-    }
-     if(a=='5')
-    {
-        return "jkl";
-    }
-     if(a=='6')
-    {
-        return "mno";
-    }
-     if(a=='7')
-    {
-        return "pqrs";
-    }
-     if(a=='8')
-    {
-        return "tuv";
-    }
-     if(a=='9')
-    {
-        return "wxyz";
-    }
-return "";
-}
-void calculate(string &str,string &subset,int index, vector<string> &arr,string digit)
-{
-    if(subset.size()==digit.length())
-    {
-        arr.push_back(subset);
-        return;
-    }
-    string no=a(digit[index]);
-for(int i=0;i<no.length();i++)
-{
-    subset.push_back(no[i]);
-    calculate(str,subset,index+1,arr,digit);
-    subset.pop_back();
-}
-}
+
     vector<string> letterCombinations(string digits) {
-         string sample="";
-        // for(int i=0;i<digits.length();i++)
-        // {
-        //     sample=sample+a(digits[i]);
-        // }
-        if(digits.length()==0)
-        {
+        if (digits.empty()) {
             return {};
         }
-        vector<string> arr;
-        string subset;
-        calculate(sample,subset,0,arr,digits);
-        return arr;
 
+        vector<string> combinations;
+        string subset;
+        calculateCombinations(subset, 0, combinations, digits);
+        return combinations;
     }
 };
