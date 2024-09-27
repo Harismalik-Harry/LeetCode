@@ -42,4 +42,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HarisMalik123/LeetCode/tree/master/0022-generate-parentheses) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/HarisMalik123/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
