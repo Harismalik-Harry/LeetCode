@@ -24,6 +24,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/HarisMalik123/LeetCode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/HarisMalik123/LeetCode/tree/master/0051-n-queens) |
+| [0948-sort-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/0948-sort-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -53,4 +54,32 @@
 |  |
 | ------- |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/HarisMalik123/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/0948-sort-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/0948-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/0948-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
