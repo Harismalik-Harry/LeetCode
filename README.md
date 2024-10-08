@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarisMalik123/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/HarisMalik123/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarisMalik123/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/HarisMalik123/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -47,4 +49,8 @@
 | ------- |
 | [0584-find-customer-referee](https://github.com/HarisMalik123/LeetCode/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/HarisMalik123/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/HarisMalik123/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 <!---LeetCode Topics End-->
