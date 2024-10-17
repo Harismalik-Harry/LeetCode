@@ -24,6 +24,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/HarisMalik123/LeetCode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/HarisMalik123/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/HarisMalik123/LeetCode/tree/master/0053-maximum-subarray) |
 | [0948-sort-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/0948-sort-an-array) |
 ## Backtracking
 |  |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HarisMalik123/LeetCode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/HarisMalik123/LeetCode/tree/master/0053-maximum-subarray) |
 ## Database
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/HarisMalik123/LeetCode/tree/master/0053-maximum-subarray) |
 | [0948-sort-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
