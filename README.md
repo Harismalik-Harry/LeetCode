@@ -10,15 +10,18 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarisMalik123/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/HarisMalik123/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/HarisMalik123/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarisMalik123/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1035-cousins-in-binary-tree](https://github.com/HarisMalik123/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarisMalik123/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/HarisMalik123/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/HarisMalik123/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -60,6 +63,7 @@
 |  |
 | ------- |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/HarisMalik123/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/HarisMalik123/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
