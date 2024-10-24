@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarisMalik123/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0988-flip-equivalent-binary-trees](https://github.com/HarisMalik123/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/HarisMalik123/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/HarisMalik123/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/HarisMalik123/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -16,12 +17,14 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarisMalik123/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0988-flip-equivalent-binary-trees](https://github.com/HarisMalik123/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/HarisMalik123/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/HarisMalik123/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarisMalik123/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0988-flip-equivalent-binary-trees](https://github.com/HarisMalik123/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/HarisMalik123/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/HarisMalik123/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/HarisMalik123/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
