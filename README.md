@@ -41,6 +41,7 @@
 | [0221-maximal-square](https://github.com/HarisMalik123/LeetCode/tree/master/0221-maximal-square) |
 | [0948-sort-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/0948-sort-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HarisMalik123/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/HarisMalik123/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/HarisMalik123/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Backtracking
 |  |
@@ -66,6 +67,7 @@
 | [0022-generate-parentheses](https://github.com/HarisMalik123/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/HarisMalik123/LeetCode/tree/master/0053-maximum-subarray) |
 | [0221-maximal-square](https://github.com/HarisMalik123/LeetCode/tree/master/0221-maximal-square) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/HarisMalik123/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Database
 |  |
 | ------- |
@@ -119,4 +121,5 @@
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/HarisMalik123/LeetCode/tree/master/0221-maximal-square) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/HarisMalik123/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
