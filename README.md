@@ -43,6 +43,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HarisMalik123/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HarisMalik123/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/HarisMalik123/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2586-longest-square-streak-in-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarisMalik123/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2586-longest-square-streak-in-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/HarisMalik123/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## String
 |  |
@@ -68,6 +70,7 @@
 | [0053-maximum-subarray](https://github.com/HarisMalik123/LeetCode/tree/master/0053-maximum-subarray) |
 | [0221-maximal-square](https://github.com/HarisMalik123/LeetCode/tree/master/0221-maximal-square) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HarisMalik123/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2586-longest-square-streak-in-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Database
 |  |
 | ------- |
@@ -93,6 +96,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/0948-sort-an-array) |
+| [2586-longest-square-streak-in-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -122,4 +126,8 @@
 | ------- |
 | [0221-maximal-square](https://github.com/HarisMalik123/LeetCode/tree/master/0221-maximal-square) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HarisMalik123/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+## Binary Search
+|  |
+| ------- |
+| [2586-longest-square-streak-in-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 <!---LeetCode Topics End-->
