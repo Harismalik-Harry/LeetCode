@@ -64,6 +64,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarisMalik123/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/HarisMalik123/LeetCode/tree/master/0022-generate-parentheses) |
+| [1250-longest-common-subsequence](https://github.com/HarisMalik123/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HarisMalik123/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Dynamic Programming
 |  |
@@ -72,6 +73,7 @@
 | [0053-maximum-subarray](https://github.com/HarisMalik123/LeetCode/tree/master/0053-maximum-subarray) |
 | [0221-maximal-square](https://github.com/HarisMalik123/LeetCode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/HarisMalik123/LeetCode/tree/master/0322-coin-change) |
+| [1250-longest-common-subsequence](https://github.com/HarisMalik123/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HarisMalik123/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HarisMalik123/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
