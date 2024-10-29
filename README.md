@@ -39,6 +39,7 @@
 | [0051-n-queens](https://github.com/HarisMalik123/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/HarisMalik123/LeetCode/tree/master/0053-maximum-subarray) |
 | [0221-maximal-square](https://github.com/HarisMalik123/LeetCode/tree/master/0221-maximal-square) |
+| [0322-coin-change](https://github.com/HarisMalik123/LeetCode/tree/master/0322-coin-change) |
 | [0948-sort-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/0948-sort-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HarisMalik123/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HarisMalik123/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -70,6 +71,7 @@
 | [0022-generate-parentheses](https://github.com/HarisMalik123/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/HarisMalik123/LeetCode/tree/master/0053-maximum-subarray) |
 | [0221-maximal-square](https://github.com/HarisMalik123/LeetCode/tree/master/0221-maximal-square) |
+| [0322-coin-change](https://github.com/HarisMalik123/LeetCode/tree/master/0322-coin-change) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HarisMalik123/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HarisMalik123/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -85,6 +87,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/HarisMalik123/LeetCode/tree/master/0322-coin-change) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/HarisMalik123/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/HarisMalik123/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/HarisMalik123/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
