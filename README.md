@@ -66,6 +66,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarisMalik123/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/HarisMalik123/LeetCode/tree/master/0022-generate-parentheses) |
+| [1170-shortest-common-supersequence](https://github.com/HarisMalik123/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/HarisMalik123/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HarisMalik123/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Dynamic Programming
@@ -75,6 +76,7 @@
 | [0053-maximum-subarray](https://github.com/HarisMalik123/LeetCode/tree/master/0053-maximum-subarray) |
 | [0221-maximal-square](https://github.com/HarisMalik123/LeetCode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/HarisMalik123/LeetCode/tree/master/0322-coin-change) |
+| [1170-shortest-common-supersequence](https://github.com/HarisMalik123/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/HarisMalik123/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HarisMalik123/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarisMalik123/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
