@@ -45,6 +45,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HarisMalik123/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarisMalik123/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/HarisMalik123/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2554-minimum-total-distance-traveled](https://github.com/HarisMalik123/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HarisMalik123/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Backtracking
@@ -77,6 +78,7 @@
 | [1250-longest-common-subsequence](https://github.com/HarisMalik123/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HarisMalik123/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarisMalik123/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2554-minimum-total-distance-traveled](https://github.com/HarisMalik123/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HarisMalik123/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Database
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/0948-sort-an-array) |
+| [2554-minimum-total-distance-traveled](https://github.com/HarisMalik123/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Heap (Priority Queue)
 |  |
