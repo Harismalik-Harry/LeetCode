@@ -38,6 +38,7 @@
 | [0039-combination-sum](https://github.com/HarisMalik123/LeetCode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/HarisMalik123/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/HarisMalik123/LeetCode/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/HarisMalik123/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0221-maximal-square](https://github.com/HarisMalik123/LeetCode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/HarisMalik123/LeetCode/tree/master/0322-coin-change) |
 | [0948-sort-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/0948-sort-an-array) |
@@ -108,6 +109,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/HarisMalik123/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0948-sort-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/0948-sort-an-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/HarisMalik123/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -150,4 +152,8 @@
 |  |
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarisMalik123/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/HarisMalik123/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
