@@ -41,6 +41,7 @@
 | [0053-maximum-subarray](https://github.com/HarisMalik123/LeetCode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HarisMalik123/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HarisMalik123/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/HarisMalik123/LeetCode/tree/master/0189-rotate-array) |
 | [0221-maximal-square](https://github.com/HarisMalik123/LeetCode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/HarisMalik123/LeetCode/tree/master/0322-coin-change) |
 | [0948-sort-an-array](https://github.com/HarisMalik123/LeetCode/tree/master/0948-sort-an-array) |
@@ -160,4 +161,9 @@
 | [0027-remove-element](https://github.com/HarisMalik123/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HarisMalik123/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HarisMalik123/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/HarisMalik123/LeetCode/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/HarisMalik123/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
